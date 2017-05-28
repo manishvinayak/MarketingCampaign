@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Campaign Details" section_id="1af043f0db4f72004df7fabdbf9619a4" sys_domain="global" table="x_20079_campaign_marketing" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stakeholders</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-28 07:09:41</sys_created_on>
+            <sys_id>dff0c3f0db4f72004df7fabdbf96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Campaign Details" display_value="Campaign Details" name="x_20079_campaign_marketing" sys_domain="global" view="Default view">1af043f0db4f72004df7fabdbf9619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-28 07:09:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-28 07:09:41</sys_created_on>
+            <sys_id>53f0c3f0db4f72004df7fabdbf96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Campaign Details" display_value="Campaign Details" name="x_20079_campaign_marketing" sys_domain="global" view="Default view">1af043f0db4f72004df7fabdbf9619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-28 07:09:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>schedule</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-28 07:09:41</sys_created_on>
+            <sys_id>d3f0c3f0db4f72004df7fabdbf96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Campaign Details" display_value="Campaign Details" name="x_20079_campaign_marketing" sys_domain="global" view="Default view">1af043f0db4f72004df7fabdbf9619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-28 07:09:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-28 07:09:41</sys_created_on>
+            <sys_id>57f0c3f0db4f72004df7fabdbf96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Campaign Details" display_value="Campaign Details" name="x_20079_campaign_marketing" sys_domain="global" view="Default view">1af043f0db4f72004df7fabdbf9619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-28 07:09:41</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-28 07:09:41</sys_created_on>
+            <sys_id>d7f0c3f0db4f72004df7fabdbf96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Campaign Details" display_value="Campaign Details" name="x_20079_campaign_marketing" sys_domain="global" view="Default view">1af043f0db4f72004df7fabdbf9619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-28 07:09:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>content</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-28 07:09:41</sys_created_on>
+            <sys_id>5bf0c3f0db4f72004df7fabdbf96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Campaign Details" display_value="Campaign Details" name="x_20079_campaign_marketing" sys_domain="global" view="Default view">1af043f0db4f72004df7fabdbf9619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-28 07:09:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-28 07:09:41</sys_created_on>
+            <sys_id>dbf0c3f0db4f72004df7fabdbf96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Campaign Details" display_value="Campaign Details" name="x_20079_campaign_marketing" sys_domain="global" view="Default view">1af043f0db4f72004df7fabdbf9619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-28 07:09:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Campaign Details</caption>
+            <header>false</header>
+            <name>x_20079_campaign_marketing</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-28 07:09:36</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1af043f0db4f72004df7fabdbf9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Campaign Details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Campaign" source="x_20079_campaign">02bc76f8db8772004df7fabdbf96197b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Campaign">02bc76f8db8772004df7fabdbf96197b</sys_scope>
+            <sys_update_name>sys_ui_section_1af043f0db4f72004df7fabdbf9619a4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-28 07:09:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Marketing Campaign" max_length="40" name="x_20079_campaign_marketing" type="collection">
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Not Yet Requested" label="Approval" max_length="40" name="approval" read_only="true" type="string">
+            <choice>
+                <element label="Not Yet Requested" sequence="0" value="Not Yet Requested"/>
+                <element label="Requested" sequence="1" value="Requested"/>
+                <element label="Approved" sequence="2" value="Approved"/>
+                <element label="Rejected" sequence="3" value="Rejected"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="4000" name="comments" type="journal"/>
+        <element label="Content" mandatory="true" max_length="65536" name="content" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="500" name="description" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Schedule" mandatory="true" max_length="40" name="schedule" type="glide_date_time"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Stakeholders" mandatory="true" max_length="1024" name="stakeholders" reference="sys_user" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Draft" label="State" max_length="40" name="state" read_only="true" type="string">
+            <choice>
+                <element label="Draft" sequence="0" value="Draft"/>
+                <element label="Review" sequence="1" value="Review"/>
+                <element label="Published" sequence="2" value="Published"/>
+                <element label="Triggered" sequence="3" value="Triggered"/>
+            </choice>
+        </element>
+        <element label="Submitter" max_length="32" name="submitter" read_only="true" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="submitter"/>
+        </index>
     </element>
 </database>
