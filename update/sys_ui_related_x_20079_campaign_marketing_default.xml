@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_20079_campaign_marketing" version="2" view="default">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Marketing Campaign - Default" name="x_20079_campaign_marketing" related_list="NULL" sys_domain="global" view="2354d13237221000dada8cdabebe5d7f">08a2dcd9db0332004df7fabdbf961997</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-29 07:44:50</sys_created_on>
+            <sys_id>c4a2dcd9db0332004df7fabdbf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-29 07:44:50</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Marketing Campaign - Default</calculated_name>
+            <filter/>
+            <name>x_20079_campaign_marketing</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-29 07:44:49</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08a2dcd9db0332004df7fabdbf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Marketing Campaign - Default</sys_name>
+            <sys_package display_value="Campaign" source="x_20079_campaign">02bc76f8db8772004df7fabdbf96197b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Campaign">02bc76f8db8772004df7fabdbf96197b</sys_scope>
+            <sys_update_name>sys_ui_related_x_20079_campaign_marketing_default</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-29 07:44:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default" name="default">2354d13237221000dada8cdabebe5d7f</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

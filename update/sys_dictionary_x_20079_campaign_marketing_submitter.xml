@@ -7,13 +7,13 @@
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Submitter</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>javascript:gs.getUserID();</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -21,7 +21,7 @@
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
-        <dynamic_default_value/>
+        <dynamic_default_value display_value="Sender">2fd8e97bef3221002841f7f775c0fbc1</dynamic_default_value>
         <dynamic_ref_qual/>
         <element>submitter</element>
         <element_reference>false</element_reference>
@@ -49,7 +49,7 @@
         <sys_created_on>2017-05-28 07:09:37</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>1ef043f0db4f72004df7fabdbf9619ad</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Submitter</sys_name>
         <sys_package display_value="Campaign" source="x_20079_campaign">02bc76f8db8772004df7fabdbf96197b</sys_package>
         <sys_policy/>
@@ -57,12 +57,12 @@
         <sys_scope display_value="Campaign">02bc76f8db8772004df7fabdbf96197b</sys_scope>
         <sys_update_name>sys_dictionary_x_20079_campaign_marketing_submitter</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-28 07:09:39</sys_updated_on>
+        <sys_updated_on>2017-05-29 07:01:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
-        <use_dynamic_default>false</use_dynamic_default>
+        <use_dynamic_default>true</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
         <widget/>
