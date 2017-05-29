@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Campaign">dabcbafcdb0f72004df7fabdbf96190e</application>
+        <application display_value="Marketing Campaign">dabcbafcdb0f72004df7fabdbf96190e</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -31,8 +31,8 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fdb18370db4f72004df7fabdbf96195e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Submitted By Me</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Campaigns Submitted By Me</sys_name>
         <sys_overrides/>
         <sys_package display_value="Campaign" source="x_20079_campaign">02bc76f8db8772004df7fabdbf96197b</sys_package>
         <sys_policy/>
@@ -40,9 +40,9 @@
         <sys_scope display_value="Campaign">02bc76f8db8772004df7fabdbf96197b</sys_scope>
         <sys_update_name>sys_app_module_fdb18370db4f72004df7fabdbf96195e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-28 07:14:36</sys_updated_on>
+        <sys_updated_on>2017-05-28 07:21:10</sys_updated_on>
         <timeline_page/>
-        <title>Submitted By Me</title>
+        <title>Campaigns Submitted By Me</title>
         <uncancelable>false</uncancelable>
         <view_name>default</view_name>
         <window_name/>
