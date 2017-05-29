@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-29 09:20:38</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>16782099db4332004df7fabdbf96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject.x_20079_campaign.approver</sys_name>
+        <sys_package display_value="Campaign" source="x_20079_campaign">02bc76f8db8772004df7fabdbf96197b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Campaign">02bc76f8db8772004df7fabdbf96197b</sys_scope>
+        <sys_ui_action display_value="Reject">9de66819db4332004df7fabdbf9619ea</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_16782099db4332004df7fabdbf96195a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-29 09:20:38</sys_updated_on>
+        <sys_user_role display_value="x_20079_campaign.approver" name="x_20079_campaign.approver">e992c334db4f72004df7fabdbf961935</sys_user_role>
+    </sys_ui_action_role>
+</record_update>

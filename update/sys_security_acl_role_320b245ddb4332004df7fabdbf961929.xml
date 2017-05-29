@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-29 09:31:41</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>320b245ddb4332004df7fabdbf961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_20079_campaign_marketing.comments.x_20079_campaign.user</sys_name>
+        <sys_package display_value="Campaign" source="x_20079_campaign">02bc76f8db8772004df7fabdbf96197b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Campaign">02bc76f8db8772004df7fabdbf96197b</sys_scope>
+        <sys_security_acl display_value="x_20079_campaign_marketing.comments">4439e0d9db4332004df7fabdbf961943</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_320b245ddb4332004df7fabdbf961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-29 09:31:41</sys_updated_on>
+        <sys_user_role display_value="x_20079_campaign.user" name="x_20079_campaign.user">5ebcbafcdb0f72004df7fabdbf961912</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

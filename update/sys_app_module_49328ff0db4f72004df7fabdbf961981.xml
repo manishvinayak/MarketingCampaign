@@ -19,7 +19,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_20079_campaign.user</roles>
+        <roles>x_20079_campaign.user,x_20079_campaign.approver</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>49328ff0db4f72004df7fabdbf961981</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>All Campaigns</sys_name>
         <sys_overrides/>
         <sys_package display_value="Campaign" source="x_20079_campaign">02bc76f8db8772004df7fabdbf96197b</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Campaign">02bc76f8db8772004df7fabdbf96197b</sys_scope>
         <sys_update_name>sys_app_module_49328ff0db4f72004df7fabdbf961981</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-28 07:21:18</sys_updated_on>
+        <sys_updated_on>2017-05-29 09:15:20</sys_updated_on>
         <timeline_page/>
         <title>All Campaigns</title>
         <uncancelable>false</uncancelable>
